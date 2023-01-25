@@ -26,3 +26,13 @@ let movies = [
 // let food = ['eggs', 'oat milk', 'bananas', 'chocolate', 'bread']
 // let items = food.slice(2, 4)
 // console.log(items)
+
+// // shift
+// let plants = ['snake', 'yukka', 'pothos']
+// let first = plants.shift() 
+// console.log(first)
+
+// // unshift
+// let animals = ['cow', 'lion', 'cat']
+// animals.unshift('panda')
+// console.log(animal)
