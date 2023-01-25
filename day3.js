@@ -117,7 +117,7 @@
 // let movies = [
 //     "lord of the rings - the fellowship of the ring",
 //     "lord of the rings - the two towers",
-//     "blade runner",
+//     "ghostbusters",
 //     "jurassic park",
 // ]
 
@@ -128,6 +128,16 @@
 //         }else{
 //             console.log('booo not ghostbusters')
 //         }
+//     }else{
+//         console.log(movies[i])
+//     }
+// }
+
+// for(let i = 0; i < movies.length; i++){
+//     if(i === 2 && movies[2] === 'ghostbusters'){
+//         console.log('yay its ghostbusters')
+//     }else if(i === 2 && movies[2] !== 'ghostbusters'){
+//         console.log('boo, not ghostbusters')
 //     }else{
 //         console.log(movies[i])
 //     }
